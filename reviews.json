@@ -1,0 +1,124 @@
+{
+  "reviews": [
+    {
+      "professor": "Dr. John Smith",
+      "subject": "Computer Science",
+      "stars": 5,
+      "review": "Dr. Smith is an excellent professor who explains complex topics clearly. Highly recommend his classes."
+    },
+    {
+      "professor": "Dr. Emily Johnson",
+      "subject": "Mathematics",
+      "stars": 4,
+      "review": "Dr. Johnson's lectures are thorough, but sometimes the pace is too fast. Overall, a good learning experience."
+    },
+    {
+      "professor": "Dr. Michael Brown",
+      "subject": "Physics",
+      "stars": 3,
+      "review": "Dr. Brown knows his subject well but lacks engagement with students. His exams are tough."
+    },
+    {
+      "professor": "Dr. Sarah Lee",
+      "subject": "Biology",
+      "stars": 5,
+      "review": "Dr. Lee is passionate about biology and it shows in her teaching. The labs were particularly fun."
+    },
+    {
+      "professor": "Dr. William Garcia",
+      "subject": "Chemistry",
+      "stars": 4,
+      "review": "Good professor, but the coursework is challenging. You need to put in a lot of effort to succeed."
+    },
+    {
+      "professor": "Dr. Linda Martinez",
+      "subject": "Psychology",
+      "stars": 5,
+      "review": "Dr. Martinez is incredibly knowledgeable and her classes are very engaging. I learned a lot."
+    },
+    {
+      "professor": "Dr. David Hernandez",
+      "subject": "Economics",
+      "stars": 2,
+      "review": "Dr. Hernandez's lectures are a bit monotonous and hard to follow. The material is interesting, but the delivery could be better."
+    },
+    {
+      "professor": "Dr. Barbara Wilson",
+      "subject": "Philosophy",
+      "stars": 4,
+      "review": "Dr. Wilson challenges you to think deeply about the subject matter. Her grading is fair but tough."
+    },
+    {
+      "professor": "Dr. Richard Clark",
+      "subject": "Sociology",
+      "stars": 3,
+      "review": "Dr. Clark's classes are informative, but the lectures can drag on. He is approachable for questions though."
+    },
+    {
+      "professor": "Dr. Mary Rodriguez",
+      "subject": "History",
+      "stars": 5,
+      "review": "Dr. Rodriguez brings history to life with her engaging lectures. A must-take class for history buffs."
+    },
+    {
+      "professor": "Dr. James Lewis",
+      "subject": "Political Science",
+      "stars": 4,
+      "review": "Dr. Lewis provides a balanced view on political issues. His classes are informative, but be prepared for heavy reading."
+    },
+    {
+      "professor": "Dr. Patricia Walker",
+      "subject": "English Literature",
+      "stars": 3,
+      "review": "Dr. Walker is knowledgeable but her grading is strict. The workload is heavy, but the material is interesting."
+    },
+    {
+      "professor": "Dr. Christopher Hall",
+      "subject": "Anthropology",
+      "stars": 5,
+      "review": "Dr. Hall's enthusiasm for anthropology is contagious. His classes are well-structured and engaging."
+    },
+    {
+      "professor": "Dr. Karen Young",
+      "subject": "Art History",
+      "stars": 4,
+      "review": "Dr. Young's lectures are visually rich and informative. The course requires a lot of memorization, but it's worth it."
+    },
+    {
+      "professor": "Dr. Steven King",
+      "subject": "Engineering",
+      "stars": 2,
+      "review": "Dr. King is brilliant but not the best at explaining concepts. The exams are very difficult."
+    },
+    {
+      "professor": "Dr. Laura Scott",
+      "subject": "Environmental Science",
+      "stars": 5,
+      "review": "Dr. Scott's class was eye-opening. She provides a lot of real-world examples and is very approachable."
+    },
+    {
+      "professor": "Dr. George Adams",
+      "subject": "Business Management",
+      "stars": 4,
+      "review": "Dr. Adams offers practical insights into business management. His case studies are particularly useful."
+    },
+    {
+      "professor": "Dr. Jessica Baker",
+      "subject": "Statistics",
+      "stars": 3,
+      "review": "Dr. Baker is good at explaining statistics, but the workload is heavy. The class can be overwhelming at times."
+    },
+    {
+      "professor": "Dr. Robert Carter",
+      "subject": "Geography",
+      "stars": 4,
+      "review": "Dr. Carter makes geography interesting. His assignments are challenging but help reinforce the material."
+    },
+    {
+      "professor": "Dr. Susan Mitchell",
+      "subject": "Linguistics",
+      "stars": 5,
+      "review": "Dr. Mitchell is a fantastic professor who really cares about her students. Her classes are both challenging and rewarding."
+    }
+  ]
+}
